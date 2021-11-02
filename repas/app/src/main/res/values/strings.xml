@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">repas</string>
+    <string name="fruit">fruit</string>
+    <string name="fromage">fromage</string>
+    <string name="nomRadioGroup">Quand avez vous mangé ?</string>
+    <string name="midi">midi</string>
+    <string name="soir">soir</string>
+    <string name="valider">valider</string>
+    <string name="resumeRepas"></string>
 </resources>
