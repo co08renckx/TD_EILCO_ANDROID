@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TD6</string>
+    <string name="user_github">écrivez le nom du repo github</string>
+</resources>
